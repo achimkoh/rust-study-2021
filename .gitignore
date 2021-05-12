@@ -1,0 +1,6 @@
+*.pdf
+functions/*
+guessing_game/*
+hello-rust/*
+.DS_Store
+target
